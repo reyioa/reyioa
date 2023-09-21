@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning: Computer science
 - 💬 Ask me about: anything
 - 📫 How to reach me: By email
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=reyioa&repo=chem-engine)](https://github.com/anuraghazra/github-readme-stats)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=reyioa&repo=chem-engine&theme=gruvbox)](https://github.com/reyioa/chem-engine)
 [![My GitHub Stats](https://github-readme-stats.vercel.app/api/?username=reyioa&count_private=true&theme=gruvbox&showicons=true)]()  [![My GitHub Language Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=reyioa&langs_count=5&theme=gruvbox)]()
 
 _I Know I'm a C. I'll be better_
