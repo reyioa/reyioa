@@ -1,6 +1,6 @@
 ### Hello!
-- 🔭 I’m currently working on: A 3d Engine of Molecules
-- 🌱 I’m currently learning: Computer science
+- 🔭 I’m currently working on: Nothing
+- 🌱 I’m currently learning: Nothing
 - 💬 Ask me about: anything
 - 📫 How to reach me: By email
 - [![My GitHub Stats](https://github-readme-stats.vercel.app/api/?username=reyioa&count_private=true&theme=gruvbox&showicons=true)]()
